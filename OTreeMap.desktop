@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OTreeMap
+Comment=Disk Usage Treemap Analyzer
+Exec=OTreeMap
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OCore;
